@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:aquamarine;
+    padding:10px;
+    border-radius:100px;
+}
+header a{
+    color: red;
+    text-decoration: none;
+}
+h1{
+    color: lime;
+    text-align: center;
+}
+footer{
+   background-color:orange;
+   color:yellow;
+}
+.product p{
+    background-color: aquamarine;
+    color: blue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 50px;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    color: #FF0000
+}
+a{
+    text-decoration: none;
+    color:yellow;
+    background-color: darkred;
+    padding: 5px;
+    border-radius: 15px;
+}
